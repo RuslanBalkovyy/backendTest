@@ -1,10 +1,11 @@
 const { DynamoDBClient } = require("@aws-sdk/client-dynamodb");
 const { DynamoDBDocumentClient, PutCommand, ScanCommand, QueryCommand } = require("@aws-sdk/lib-dynamodb");
 const logger = require("../util/logger");
+const dotenv = require("dotenv");
 
 const client = new DynamoDBClient({ region: "us-east-2" });
 const documentClient = DynamoDBDocumentClient.from(client);
-
+dotenv.config();
 const TableName = "Users";
 
 async function postUser(user) {
