@@ -1,0 +1,39 @@
+2025-04-14T07:39:45.010Z [info]: Incoming GET : /
+2025-04-14T07:43:16.461Z [info]: Incoming POST : /users
+2025-04-14T07:44:29.457Z [info]: Incoming POST : /users
+2025-04-14T07:44:29.665Z [error]: Requested resource not found
+2025-04-14T07:45:16.421Z [info]: Incoming POST : /users
+2025-04-14T07:45:16.667Z [error]: One or more parameter values were invalid: Missing the key id in the item
+2025-04-14T07:48:18.244Z [info]: Incoming POST : /users
+2025-04-14T07:48:18.475Z [info]: PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"1SH0VC4EHV1FI0U76UD6330OLBVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}
+2025-04-14T07:48:26.658Z [info]: Incoming POST : /users/login
+2025-04-14T07:48:26.707Z [info]: SCAN command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"UKTP5D8LBVAK0PH9G80MV1KEQNVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"user_id":"2becff1c-607d-4af8-a370-dc084b97d9ba","password":"$2b$10$bTD4FqdZOfJmBp4HYhALXO9MapYkUxv9FcVf4Ae40U29k.1Af8zdK","username":"user"}],"ScannedCount":1}
+2025-04-14T07:53:34.574Z [info]: Incoming POST : /users/login
+2025-04-14T07:53:36.458Z [info]: Incoming POST : /users/login
+2025-04-14T07:53:38.027Z [info]: Incoming POST : /users/login
+2025-04-14T07:53:38.208Z [info]: Incoming POST : /users/login
+2025-04-14T07:53:38.384Z [info]: Incoming POST : /users/login
+2025-04-14T07:53:38.554Z [info]: Incoming POST : /users/login
+2025-04-14T07:53:38.773Z [info]: Incoming POST : /users/login
+2025-04-14T07:55:33.224Z [info]: Incoming POST : /users/login
+2025-04-14T07:55:47.748Z [info]: Incoming POST : /users/login
+2025-04-14T07:57:23.110Z [info]: Incoming POST : /users/login
+2025-04-14T07:57:50.107Z [info]: Incoming POST : /users/login
+2025-04-14T07:58:30.535Z [info]: Incoming POST : /users/login
+2025-04-14T07:59:00.746Z [info]: Incoming POST : /users/login
+2025-04-14T08:00:39.713Z [info]: Incoming POST : /users
+2025-04-14T08:01:13.819Z [info]: Incoming POST : /users
+2025-04-14T08:04:02.106Z [info]: Incoming POST : /users
+2025-04-14T08:04:02.374Z [info]: PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"UI68KSA611SDHS6P7974JK3MHVVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}
+2025-04-14T08:04:15.183Z [info]: Incoming POST : /users/login
+2025-04-14T08:04:15.229Z [info]: SCAN command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"JBCHBMI039C56QFF73CE5T1AG3VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"user_id":"2becff1c-607d-4af8-a370-dc084b97d9ba","password":"$2b$10$bTD4FqdZOfJmBp4HYhALXO9MapYkUxv9FcVf4Ae40U29k.1Af8zdK","username":"user"}],"ScannedCount":2}
+2025-04-14T08:05:02.250Z [info]: Incoming POST : /users/login
+2025-04-14T08:05:02.290Z [info]: SCAN command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"7F71I6EPE4MUO3RPAVOE8RJO2NVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"user_id":"2becff1c-607d-4af8-a370-dc084b97d9ba","password":"$2b$10$bTD4FqdZOfJmBp4HYhALXO9MapYkUxv9FcVf4Ae40U29k.1Af8zdK","username":"user"}],"ScannedCount":2}
+2025-04-14T08:05:03.768Z [info]: Incoming POST : /users/login
+2025-04-14T08:05:03.806Z [info]: SCAN command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"5PQ9LC92RQNOQ4VP40HGO1SJ1BVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"user_id":"2becff1c-607d-4af8-a370-dc084b97d9ba","password":"$2b$10$bTD4FqdZOfJmBp4HYhALXO9MapYkUxv9FcVf4Ae40U29k.1Af8zdK","username":"user"}],"ScannedCount":2}
+2025-04-14T08:05:06.727Z [info]: Incoming POST : /users/login
+2025-04-14T08:05:06.772Z [info]: SCAN command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"C99FS3IG4VGUUGQBFLASL5SQCRVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"user_id":"2becff1c-607d-4af8-a370-dc084b97d9ba","password":"$2b$10$bTD4FqdZOfJmBp4HYhALXO9MapYkUxv9FcVf4Ae40U29k.1Af8zdK","username":"user"}],"ScannedCount":2}
+2025-04-14T08:05:10.889Z [info]: Incoming POST : /users/login
+2025-04-14T08:05:10.928Z [info]: SCAN command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"652B2OSAMKA88AO1HSV4U3P0MVVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"user_id":"2becff1c-607d-4af8-a370-dc084b97d9ba","password":"$2b$10$bTD4FqdZOfJmBp4HYhALXO9MapYkUxv9FcVf4Ae40U29k.1Af8zdK","username":"user"}],"ScannedCount":2}
+2025-04-14T08:05:20.052Z [info]: Incoming POST : /users/login
+2025-04-14T08:05:20.092Z [info]: SCAN command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"BGJ4163C016VVHM5PL5BV9PHSFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"user_id":"2becff1c-607d-4af8-a370-dc084b97d9ba","password":"$2b$10$bTD4FqdZOfJmBp4HYhALXO9MapYkUxv9FcVf4Ae40U29k.1Af8zdK","username":"user"}],"ScannedCount":2}

@@ -1,0 +1,49 @@
+2025-03-13T13:26:27.599Z [info]: Incoming POST : /users
+2025-03-13T13:28:05.288Z [info]: Incoming POST : /users
+2025-03-13T13:29:47.879Z [info]: Incoming POST : /users
+2025-03-13T13:30:40.089Z [info]: Incoming POST : /users
+2025-03-13T13:31:30.335Z [info]: Incoming POST : /users
+2025-03-13T13:31:30.701Z [info]: PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"1QR0VB157K846MULKL5A4JEJIBVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}
+2025-03-13T13:44:55.942Z [info]: Incoming POST : /users/login
+2025-03-13T13:44:56.360Z [info]: SCAN command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"R5GDFMM6NC73801JVEO07EP6JFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"user_id":"2b3c237f-4a9d-4a75-843b-8573040b742f","password":"pass2","username":"user2"}],"ScannedCount":2}
+2025-03-13T13:45:05.990Z [info]: Incoming POST : /users/login
+2025-03-13T13:45:06.033Z [info]: SCAN command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"KL7BIBRMRNIHFQKOCNMJJT0H6RVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"user_id":"1c35be7c-8fb4-4f11-bcc2-20f74e70faa5","password":"pass1","username":"user1"}],"ScannedCount":2}
+2025-03-13T13:45:12.209Z [info]: Incoming POST : /users/login
+2025-03-13T13:45:12.253Z [info]: SCAN command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"6SC3E7ITTP69J1EMNQ2RKR9427VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"user_id":"2b3c237f-4a9d-4a75-843b-8573040b742f","password":"pass2","username":"user2"}],"ScannedCount":2}
+2025-03-13T14:10:03.808Z [info]: Incoming GET : /protected
+2025-03-13T14:10:54.747Z [info]: Incoming POST : /users/login
+2025-03-13T14:10:55.155Z [info]: SCAN command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"RCBJND9503D8JH6HKQ175TCH5FVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"user_id":"2b3c237f-4a9d-4a75-843b-8573040b742f","password":"pass2","username":"user2"}],"ScannedCount":2}
+2025-03-13T14:11:04.846Z [info]: Incoming GET : /protected
+2025-03-13T14:12:05.094Z [info]: Incoming GET : /protected
+2025-03-13T14:12:16.507Z [info]: Incoming POST : /users/login
+2025-03-13T14:12:16.807Z [info]: SCAN command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"BOMEBNREHM154H03T0I82BET17VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"user_id":"2b3c237f-4a9d-4a75-843b-8573040b742f","password":"pass2","username":"user2"}],"ScannedCount":2}
+2025-03-13T14:12:25.644Z [info]: Incoming GET : /protected
+2025-03-13T14:12:34.043Z [info]: Incoming GET : /users/logout
+2025-03-13T14:12:34.054Z [info]: Incoming GET : /
+2025-03-13T14:12:43.804Z [info]: Incoming GET : /protected
+2025-03-13T14:21:44.069Z [info]: Incoming POST : /users/login
+2025-03-13T14:21:44.375Z [info]: SCAN command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"U4QNJVPCMGA1ELHJVMLDFAD0OVVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"user_id":"2b3c237f-4a9d-4a75-843b-8573040b742f","password":"pass2","username":"user2"}],"ScannedCount":2}
+2025-03-13T14:31:33.237Z [info]: Incoming POST : /users/login
+2025-03-13T14:31:33.526Z [info]: SCAN command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"FH66L3MT9II0GFCN5ANFPRRAHFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"user_id":"2b3c237f-4a9d-4a75-843b-8573040b742f","password":"pass2","username":"user2"}],"ScannedCount":2}
+2025-03-13T14:31:49.011Z [info]: Incoming GET : /protected
+2025-03-13T14:32:07.975Z [info]: Incoming GET : /protected
+2025-03-13T14:32:07.977Z [error]: invalid signature
+2025-03-13T14:32:27.919Z [info]: Incoming GET : /protected
+2025-03-13T14:32:27.921Z [error]: invalid signature
+2025-03-13T14:46:42.266Z [info]: Incoming POST : /users
+2025-03-13T14:47:35.207Z [info]: Incoming POST : /users
+2025-03-13T14:47:35.679Z [info]: PUT command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"7DMSL0LBB0MRGOJBCIEVN34BUFVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0}}
+2025-03-13T14:48:12.632Z [info]: Incoming POST : /users/login
+2025-03-13T14:48:12.680Z [info]: SCAN command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"EGAHLKS78GUK5H6589IRKCLGGNVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"user_id":"ee70efbe-4afc-45e9-91c3-73905569ba69","password":"$2b$10$4d9lBeeBd4SKD3KKMGQTneAToPgR2nRHWMW81aWjnhyCOn3BOCwki","username":"user3"}],"ScannedCount":3}
+2025-03-13T14:48:30.236Z [info]: Incoming GET : /protected
+2025-03-13T14:48:30.241Z [error]: invalid signature
+2025-03-13T14:49:15.598Z [info]: Incoming GET : /protected
+2025-03-13T14:49:15.600Z [error]: invalid signature
+2025-03-13T14:57:45.086Z [info]: Incoming GET : /protected
+2025-03-13T14:57:45.308Z [info]: Incoming GET : /favicon.ico
+2025-03-17T13:13:58.624Z [info]: Incoming POST : /users/login
+2025-03-17T13:13:59.067Z [info]: SCAN command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"RFJSB0RP1JVVC30FAM9UH7147BVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"user_id":"1c35be7c-8fb4-4f11-bcc2-20f74e70faa5","password":"pass1","username":"user1"}],"ScannedCount":3}
+2025-03-17T13:14:51.491Z [info]: Incoming POST : /users/login
+2025-03-17T13:14:51.533Z [info]: SCAN command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"000EB4G6U1D1G5JO3J2JB3GS13VV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"user_id":"1c35be7c-8fb4-4f11-bcc2-20f74e70faa5","password":"pass1","username":"user1"}],"ScannedCount":3}
+2025-03-17T13:16:53.323Z [info]: Incoming POST : /users/login
+2025-03-17T13:16:53.707Z [info]: SCAN command to database complete {"$metadata":{"httpStatusCode":200,"requestId":"RTVCBN1NSN21ECKNIMGCQOMM7JVV4KQNSO5AEMVJF66Q9ASUAAJG","attempts":1,"totalRetryDelay":0},"Count":1,"Items":[{"user_id":"1c35be7c-8fb4-4f11-bcc2-20f74e70faa5","password":"pass1","username":"user1"}],"ScannedCount":3}
